@@ -232,11 +232,8 @@ DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
   capybara (>= 2.15)
-<<<<<<< HEAD
   dotenv-rails
-=======
   haml-rails (~> 2.0)
->>>>>>> b8939744569ddb0c9a04c55e3dcc621432698992
   jbuilder (~> 2.7)
   listen (~> 3.2)
   meta-tags
