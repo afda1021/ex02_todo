@@ -16,10 +16,10 @@ module ApplicationHelper
       og: {
         site_name: 'サイト名',
         title: 'タイトル',
-        description: 'ディスクリプション', 
+        description: 'ディスクリプション',
         type: 'website',
         url: request.original_url,
-        image: image_url('ogp.png'),
+        image: image_url('images/ogp.png'),
         locale: 'ja_JP',
       },
       # twitter: {
